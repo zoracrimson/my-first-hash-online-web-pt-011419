@@ -4,6 +4,7 @@ def my_hash
     "name" => "Kat"
   }
 end
+end
 
 
 def shipping_manifest
